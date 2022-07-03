@@ -1,0 +1,1038 @@
+ .u-section-1 {
+  background-image: url("images/back.3.png");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 268px;
+}
+
+.u-section-1 .u-image-1 {
+  width: 701px;
+  height: 133px;
+  margin: 135px auto 1px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-image-1 {
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 237px;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 540px;
+    height: 102px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 167px;
+  }
+
+  .u-section-1 .u-image-1 {
+    height: 64px;
+    margin-top: 103px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 59px;
+}
+
+.u-section-2 .u-text-1 {
+  margin: 10px auto;
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 531px;
+    margin-top: 6px;
+    margin-bottom: 6px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 64px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: 340px;
+  }
+} .u-section-3 {
+  background-image: url("images/layered-waves-haikei.4.png");
+  background-position: 50% 0%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 474px;
+}
+
+.u-section-3 .u-image-1 {
+  width: 336px;
+  height: 448px;
+  margin: 26px 0 0 auto;
+}
+
+.u-section-3 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: -408px auto 0 71px;
+}
+
+.u-section-3 .u-image-2 {
+  width: 301px;
+  height: 310px;
+  margin: 26px auto 6px 291px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 391px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 474px;
+  }
+
+  .u-section-3 .u-image-2 {
+    margin-top: 32px;
+    margin-bottom: 0;
+    margin-left: 59px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 319px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 239px;
+    height: 319px;
+    margin-top: 0;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: -282px;
+    margin-left: 0;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 205px;
+    height: 211px;
+    margin-top: 0;
+    margin-bottom: 5px;
+    margin-left: 37px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 38.24% 0%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 272px;
+  }
+
+  .u-section-3 .u-image-1 {
+    width: 204px;
+    height: 272px;
+    margin-top: 14px;
+    margin-right: -50px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-image-2 {
+    width: 170px;
+    height: 175px;
+    margin-top: 55px;
+    margin-bottom: 0;
+    margin-left: 0;
+  }
+} .u-section-4 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 467px;
+}
+
+.u-section-4 .u-image-1 {
+  width: 329px;
+  height: 438px;
+  margin: 29px auto 0 0;
+}
+
+.u-section-4 .u-image-2 {
+  width: 366px;
+  height: 348px;
+  margin: -348px 366px 0 auto;
+}
+
+.u-section-4 .u-text-1 {
+  font-weight: 400;
+  margin: -259px 0 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 385px;
+  }
+
+  .u-section-4 .u-image-1 {
+    height: 439px;
+  }
+
+  .u-section-4 .u-image-2 {
+    margin-top: -431px;
+    margin-right: 255px;
+  }
+
+  .u-section-4 .u-text-1 {
+    width: auto;
+    margin-top: -331px;
+    margin-left: 621px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 468px;
+  }
+
+  .u-section-4 .u-image-2 {
+    margin-top: -348px;
+    margin-right: 29px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: -439px;
+    margin-left: 401px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 439px;
+  }
+
+  .u-section-4 .u-image-1 {
+    margin-top: 0;
+    margin-left: -50px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 253px;
+    height: 240px;
+    margin-top: -240px;
+    margin-right: 0;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: -390px;
+    margin-left: 287px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-4 {
+    background-position: 68.73% 50%;
+  }
+
+  .u-section-4 .u-sheet-1 {
+    min-height: 273px;
+  }
+
+  .u-section-4 .u-image-1 {
+    width: 204px;
+    height: 272px;
+    margin-top: 1px;
+    margin-left: -34px;
+  }
+
+  .u-section-4 .u-image-2 {
+    width: 194px;
+    height: 184px;
+    margin-top: -187px;
+    margin-right: -24px;
+  }
+
+  .u-section-4 .u-text-1 {
+    margin-top: -250px;
+    margin-bottom: 188px;
+    margin-left: 189px;
+  }
+} .u-section-5 {
+  background-image: url("images/layered-waves-haikei.4.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 417px;
+}
+
+.u-section-5 .u-image-1 {
+  width: 303px;
+  height: 404px;
+  margin: 13px 0 0 auto;
+}
+
+.u-section-5 .u-image-2 {
+  width: 258px;
+  height: 258px;
+  background-image: url("images/RIOLO0617-012.jpeg");
+  background-position: 50% 50%;
+  margin: -290px 383px 0 auto;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: 400;
+  margin: -202px 693px 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 405px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 1px;
+  }
+
+  .u-section-5 .u-image-2 {
+    margin-top: -277px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin: -335px 433px 303px -50px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 416px;
+  }
+
+  .u-section-5 .u-image-1 {
+    margin-top: 12px;
+  }
+
+  .u-section-5 .u-image-2 {
+    margin-top: -275px;
+    margin-right: auto;
+    margin-left: 112px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin: -361px 285px 60px 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 417px;
+  }
+
+  .u-section-5 .u-image-2 {
+    margin-left: 0;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-right: 183px;
+    margin-left: -50px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-5 {
+    background-position: 35.55% 50%;
+  }
+
+  .u-section-5 .u-sheet-1 {
+    min-height: 295px;
+  }
+
+  .u-section-5 .u-image-1 {
+    height: 293px;
+    width: 220px;
+    margin-right: -50px;
+  }
+
+  .u-section-5 .u-image-2 {
+    width: 154px;
+    height: 154px;
+    margin-top: -176px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: -243px;
+    margin-right: 170px;
+    margin-left: 0;
+  }
+} .u-section-6 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 389px;
+}
+
+.u-section-6 .u-image-1 {
+  width: 570px;
+  height: 387px;
+  margin: 1px auto 0 0;
+}
+
+.u-section-6 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: -229px 99px 60px auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 321px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 470px;
+    height: 319px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: -161px;
+    margin-bottom: 96px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 244px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 360px;
+    height: 244px;
+    margin-top: 0;
+  }
+
+  .u-section-6 .u-text-1 {
+    width: auto;
+    margin-top: -185px;
+    margin-right: 0;
+    margin-bottom: 119px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 223px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 329px;
+    height: 223px;
+  }
+
+  .u-section-6 .u-text-1 {
+    margin-top: -164px;
+    margin-right: 8px;
+    margin-bottom: 98px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 231px;
+  }
+
+  .u-section-6 .u-image-1 {
+    width: 340px;
+    left: -50px;
+    right: auto;
+    height: auto;
+    margin: initial;
+  }
+
+  .u-section-6 .u-text-1 {
+    font-size: 1.875rem;
+    margin-top: 47px;
+    margin-right: 0;
+    margin-bottom: 60px;
+  }
+} .u-section-7 {
+  background-image: url("images/layered-waves-haikei.4.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 483px;
+}
+
+.u-section-7 .u-image-1 {
+  width: 386px;
+  height: 480px;
+  margin: 2px 0 0 auto;
+}
+
+.u-section-7 .u-text-1 {
+  font-weight: 400;
+  margin: -443px auto 0;
+}
+
+.u-section-7 .u-image-2 {
+  width: 400px;
+  height: 400px;
+  margin: -9px auto 0 354px;
+}
+
+.u-section-7 .u-image-3 {
+  width: 295px;
+  height: 295px;
+  margin: -388px auto 94px 37px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-image-1 {
+    margin-top: 3px;
+    margin-right: -50px;
+  }
+
+  .u-section-7 .u-text-1 {
+    width: auto;
+    margin-top: -444px;
+  }
+
+  .u-section-7 .u-image-2 {
+    margin-top: -12px;
+    margin-left: auto;
+  }
+
+  .u-section-7 .u-image-3 {
+    margin-top: -385px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 488px;
+  }
+
+  .u-section-7 .u-image-1 {
+    width: 292px;
+    height: 363px;
+    margin-top: 21px;
+    margin-right: -32px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-top: -363px;
+  }
+
+  .u-section-7 .u-image-2 {
+    margin-top: 14px;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 242px;
+    height: 242px;
+    margin-top: -424px;
+    margin-left: -20px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 406px;
+  }
+
+  .u-section-7 .u-image-2 {
+    width: 286px;
+    height: 286px;
+    margin-top: 46px;
+    margin-left: 73px;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 211px;
+    height: 211px;
+    margin-top: -406px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-7 {
+    background-position: 26.07% 50%;
+  }
+
+  .u-section-7 .u-sheet-1 {
+    min-height: 322px;
+  }
+
+  .u-section-7 .u-image-1 {
+    width: 187px;
+    height: 232px;
+    margin-top: 1px;
+    margin-right: -17px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-top: -284px;
+  }
+
+  .u-section-7 .u-image-2 {
+    width: 174px;
+    height: 174px;
+    margin-top: 95px;
+    margin-left: 0;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 147px;
+    height: 147px;
+    margin-top: -321px;
+    margin-bottom: 104px;
+  }
+} .u-section-8 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-8 .u-sheet-1 {
+  min-height: 449px;
+}
+
+.u-section-8 .u-image-1 {
+  width: 570px;
+  height: 449px;
+  margin: 0 auto 0 0;
+}
+
+.u-section-8 .u-text-1 {
+  font-weight: normal;
+  margin: -367px 22px 0 auto;
+}
+
+.u-section-8 .u-image-2 {
+  width: 306px;
+  height: 306px;
+  margin: 22px 214px 0 auto;
+}
+
+@media (max-width: 1199px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 396px;
+  }
+
+  .u-section-8 .u-image-1 {
+    width: 470px;
+    height: 371px;
+    margin-top: 25px;
+  }
+
+  .u-section-8 .u-text-1 {
+    width: auto;
+    margin-top: -329px;
+    margin-right: 16px;
+  }
+
+  .u-section-8 .u-image-2 {
+    margin-top: -19px;
+    margin-right: 148px;
+    margin-bottom: 3px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 286px;
+  }
+
+  .u-section-8 .u-image-1 {
+    width: 360px;
+    height: 284px;
+    margin-top: 1px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-top: -259px;
+    margin-right: 0;
+  }
+
+  .u-section-8 .u-image-2 {
+    width: 238px;
+    height: 238px;
+    margin-top: -17px;
+    margin-right: 96px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-8 .u-sheet-1 {
+    min-height: 293px;
+  }
+
+  .u-section-8 .u-image-1 {
+    width: 370px;
+    height: 292px;
+    margin-left: -50px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-top: -266px;
+  }
+
+  .u-section-8 .u-image-2 {
+    margin-top: -11px;
+    margin-right: 0;
+    margin-bottom: 1px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-8 {
+    background-position: 71.16% 50%;
+  }
+
+  .u-section-8 .u-sheet-1 {
+    min-height: 215px;
+  }
+
+  .u-section-8 .u-image-1 {
+    height: 213px;
+    width: 270px;
+  }
+
+  .u-section-8 .u-text-1 {
+    margin-top: -189px;
+  }
+
+  .u-section-8 .u-image-2 {
+    width: 163px;
+    height: 163px;
+    margin-top: 0;
+    margin-right: -23px;
+  }
+} .u-section-9 {
+  background-image: url("images/layered-waves-haikei.4.png");
+  background-position: 50% 50%;
+}
+
+.u-section-9 .u-sheet-1 {
+  min-height: 520px;
+}
+
+.u-section-9 .u-image-1 {
+  width: 404px;
+  height: 518px;
+  margin: 1px 0 0 auto;
+}
+
+.u-section-9 .u-text-1 {
+  font-weight: 700;
+  font-size: 3.75rem;
+  margin: -331px auto 266px 115px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-9 .u-image-1 {
+    height: 519px;
+  }
+
+  .u-section-9 .u-text-1 {
+    width: auto;
+    margin-top: -351px;
+    margin-bottom: 286px;
+    margin-left: 106px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 521px;
+  }
+
+  .u-section-9 .u-text-1 {
+    margin-top: -402px;
+    margin-bottom: 60px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-9 .u-sheet-1 {
+    min-height: 432px;
+  }
+
+  .u-section-9 .u-image-1 {
+    width: 335px;
+    height: 430px;
+    margin-right: -50px;
+  }
+
+  .u-section-9 .u-text-1 {
+    margin-top: -318px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-9 {
+    background-position: 23.71% 50%;
+  }
+
+  .u-section-9 .u-sheet-1 {
+    min-height: 501px;
+  }
+
+  .u-section-9 .u-image-1 {
+    height: 453px;
+    width: 340px;
+    margin-top: 48px;
+  }
+
+  .u-section-9 .u-text-1 {
+    font-size: 2.25rem;
+    margin-top: -453px;
+    margin-left: -7px;
+  }
+} .u-section-10 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-10 .u-sheet-1 {
+  min-height: 539px;
+}
+
+.u-section-10 .u-image-1 {
+  width: 401px;
+  height: 534px;
+  margin: 3px auto 0 0;
+}
+
+.u-section-10 .u-image-2 {
+  width: 432px;
+  height: 432px;
+  background-image: url("images/RIOLO0601-0121.jpeg");
+  background-position: 50% 50%;
+  margin: -438px 32px 0 auto;
+}
+
+.u-section-10 .u-text-1 {
+  margin: -423px auto 392px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 541px;
+  }
+
+  .u-section-10 .u-image-1 {
+    height: 535px;
+    margin-top: 6px;
+  }
+
+  .u-section-10 .u-text-1 {
+    width: auto;
+    margin-top: -485px;
+    margin-bottom: 60px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 546px;
+  }
+
+  .u-section-10 .u-image-2 {
+    width: 306px;
+    height: 306px;
+    margin-top: -339px;
+    margin-right: 0;
+  }
+
+  .u-section-10 .u-text-1 {
+    margin-top: -447px;
+    margin-right: 56px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-10 .u-sheet-1 {
+    min-height: 381px;
+  }
+
+  .u-section-10 .u-image-1 {
+    width: 286px;
+    height: 381px;
+    margin-top: 0;
+    margin-left: -50px;
+  }
+
+  .u-section-10 .u-image-2 {
+    width: 233px;
+    height: 233px;
+    margin-top: -233px;
+  }
+
+  .u-section-10 .u-text-1 {
+    margin-top: -332px;
+    margin-right: 36px;
+    margin-bottom: 293px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-10 {
+    background-position: 69.89% 50%;
+  }
+
+  .u-section-10 .u-sheet-1 {
+    min-height: 331px;
+  }
+
+  .u-section-10 .u-image-1 {
+    height: 330px;
+    width: 248px;
+    margin-top: 1px;
+  }
+
+  .u-section-10 .u-image-2 {
+    width: 170px;
+    height: 170px;
+    margin-top: -170px;
+    margin-right: -28px;
+  }
+
+  .u-section-10 .u-text-1 {
+    margin-top: -284px;
+    margin-right: 24px;
+    margin-bottom: 259px;
+  }
+}.u-section-11 .u-sheet-1 {
+  min-height: 335px;
+}
+
+.u-section-11 .u-image-1 {
+  width: 570px;
+  height: 285px;
+  margin: 16px 0 0 auto;
+}
+
+.u-section-11 .u-text-1 {
+  font-weight: 400;
+  margin: -195px 656px 0 16px;
+}
+
+.u-section-11 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.5rem;
+  text-transform: none;
+  letter-spacing: normal;
+  margin: 90px 0 0 auto;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 432px;
+  }
+
+  .u-section-11 .u-image-1 {
+    width: 470px;
+    height: 235px;
+    margin-top: 20px;
+    margin-right: auto;
+  }
+
+  .u-section-11 .u-text-1 {
+    width: auto;
+    margin-top: 42px;
+    margin-left: 22px;
+    margin-right: 22px;
+  }
+
+  .u-section-11 .u-btn-1 {
+    font-weight: normal;
+    margin-top: 49px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 374px;
+  }
+
+  .u-section-11 .u-image-1 {
+    width: 360px;
+    height: 180px;
+    margin-top: 15px;
+  }
+
+  .u-section-11 .u-text-1 {
+    margin-top: 0;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-11 .u-btn-1 {
+    margin-top: 40px;
+    margin-bottom: 1px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 375px;
+  }
+
+  .u-section-11 .u-image-1 {
+    width: 421px;
+    height: 210px;
+    margin-top: 0;
+  }
+
+  .u-section-11 .u-btn-1 {
+    margin-top: 27px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-11 .u-sheet-1 {
+    min-height: 303px;
+  }
+
+  .u-section-11 .u-image-1 {
+    height: 170px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}

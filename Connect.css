@@ -1,0 +1,314 @@
+ .u-section-1 {
+  background-image: url("images/back.3.png");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 201px;
+}
+
+.u-section-1 .u-text-1 {
+  margin: 129px 105px 20px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 166px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 195px;
+  }
+
+  .u-section-1 .u-text-1 {
+    width: auto;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 247px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-top: 154px;
+    margin-bottom: 41px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 197px;
+  }
+
+  .u-section-1 .u-text-1 {
+    margin-bottom: 10px;
+  }
+} .u-section-2 {
+  background-image: url("images/layered-waves-haikei.4.png");
+  background-position: 50% 50%;
+}
+
+.u-section-2 .u-sheet-1 {
+  min-height: 423px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 262px;
+  height: 348px;
+  margin: 38px 0 0 auto;
+}
+
+.u-section-2 .u-text-1 {
+  font-size: 1.875rem;
+  margin: -325px 362px 0 415px;
+}
+
+.u-section-2 .u-text-2 {
+  font-weight: 400;
+  font-size: 3rem;
+  margin: -237px auto 60px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 447px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 191px;
+    height: 350px;
+    margin-top: 60px;
+    margin-right: 38px;
+  }
+
+  .u-section-2 .u-text-1 {
+    width: auto;
+    margin-top: -297px;
+    margin-right: 441px;
+    margin-left: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    width: auto;
+    margin-top: -404px;
+    margin-left: 25px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 531px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 252px;
+    height: 333px;
+    margin-top: 166px;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-top: -325px;
+    margin-right: 326px;
+    margin-left: 25px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -463px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 585px;
+  }
+
+  .u-section-2 .u-image-1 {
+    width: 270px;
+    height: 315px;
+  }
+
+  .u-section-2 .u-text-1 {
+    margin-right: 295px;
+    margin-left: 26px;
+  }
+
+  .u-section-2 .u-text-2 {
+    margin-top: -558px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-2 {
+    background-position: 32.05% 50%;
+  }
+
+  .u-section-2 .u-sheet-1 {
+    min-height: 729px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 324px;
+    width: 289px;
+    margin-top: 405px;
+    margin-right: auto;
+  }
+
+  .u-section-2 .u-text-1 {
+    font-size: 1.5rem;
+    margin-top: -617px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+
+  .u-section-2 .u-text-2 {
+    font-size: 2.25rem;
+    margin-top: -357px;
+  }
+} .u-section-3 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 530px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 3rem;
+  margin: 65px 706px 0 0;
+}
+
+.u-section-3 .u-form-1 {
+  height: 424px;
+  margin: -104px 0 0 570px;
+}
+
+.u-section-3 .u-label-1 {
+  text-decoration: underline !important;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.u-section-3 .u-label-2 {
+  text-decoration: underline !important;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.u-section-3 .u-label-3 {
+  text-decoration: underline !important;
+  font-size: 1.25rem;
+  text-transform: uppercase;
+}
+
+.u-section-3 .u-text-2 {
+  font-size: 1.875rem;
+  margin: -270px 668px 60px 38px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 550px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+    margin-top: 29px;
+    margin-right: 506px;
+  }
+
+  .u-section-3 .u-form-1 {
+    margin-top: -16px;
+    margin-left: 370px;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: -344px;
+    margin-right: 506px;
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 807px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-right: 0;
+  }
+
+  .u-section-3 .u-form-1 {
+    width: 570px;
+    margin-top: 237px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: 434px;
+    margin-top: -650px;
+    margin-left: auto;
+    margin-right: auto;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 844px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-top: 23px;
+  }
+
+  .u-section-3 .u-form-1 {
+    margin-top: 263px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+
+  .u-section-3 .u-text-2 {
+    width: auto;
+    margin-top: -664px;
+    margin-left: 53px;
+    margin-right: 53px;
+  }
+}
+
+@media (max-width: 575px) {
+   .u-section-3 {
+    background-position: 64.84% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 789px;
+  }
+
+  .u-section-3 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-3 .u-form-1 {
+    margin-top: 241px;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+
+  .u-section-3 .u-text-2 {
+    font-size: 1.5rem;
+    margin-top: -642px;
+    margin-left: 0;
+    margin-right: 0;
+  }
+}

@@ -1,0 +1,486 @@
+ .u-section-1 {
+  background-image: url("images/back.3-20.png");
+  background-position: 50% 0%;
+}
+
+.u-section-1 .u-sheet-1 {
+  min-height: 241px;
+}
+
+.u-section-1 .u-text-1 {
+  font-size: 4.5rem;
+  margin: 147px auto 15px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 199px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 152px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 114px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 209px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 3rem;
+    width: auto;
+    margin-bottom: 10px;
+  }
+}.u-section-2 .u-sheet-1 {
+  min-height: 283px;
+}
+
+.u-section-2 .u-image-1 {
+  width: 1073px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 249px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 248px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    width: auto;
+    left: auto;
+    bottom: auto;
+    right: auto;
+    top: auto;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 197px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 197px;
+    width: 722px;
+    margin: 0 -1px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 143px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 142px;
+    margin-top: 1px;
+    margin-bottom: 1px;
+    margin-right: initial;
+    margin-left: initial;
+    width: auto;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-2 .u-sheet-1 {
+    min-height: 90px;
+  }
+
+  .u-section-2 .u-image-1 {
+    height: 90px;
+    margin-top: 0;
+    margin-bottom: 0;
+    width: auto;
+    margin-right: initial;
+    margin-left: initial;
+  }
+} .u-section-3 {
+  background-image: url("images/layered-waves-haikei.4-21.png");
+  background-position: 50% 50%;
+}
+
+.u-section-3 .u-sheet-1 {
+  min-height: 458px;
+}
+
+.u-section-3 .u-text-1 {
+  font-size: 1.5rem;
+  background-image: none;
+  margin: 1px 0 1px 160px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 378px;
+  }
+
+  .u-section-3 .u-text-1 {
+    margin-left: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 609px;
+  }
+
+  .u-section-3 .u-text-1 {
+    width: auto;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-3 {
+    background-position: 36.92% 50%;
+  }
+
+  .u-section-3 .u-sheet-1 {
+    min-height: 457px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-3 .u-sheet-1 {
+    min-height: 288px;
+  }
+} .u-section-4 {
+  background-image: url("images/9c820605ced7436b0aa0f639d4a260e488e5e69747de2ded4e21b69ce849d168b2b5e983c332a4b3accbee027ed33aae6337e50fbdcfc67215ce45_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-4 .u-sheet-1 {
+  min-height: 409px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 337px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 258px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 194px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-4 .u-sheet-1 {
+    min-height: 122px;
+  }
+} .u-section-5 {
+  background-image: url("images/layered-waves-haikei.5.png");
+  background-position: 50% 50%;
+}
+
+.u-section-5 .u-sheet-1 {
+  min-height: 344px;
+}
+
+.u-section-5 .u-text-1 {
+  font-weight: normal;
+  font-size: 1.5rem;
+  margin: 1px 152px 0 0;
+}
+
+.u-section-5 .u-text-2 {
+  margin: -205px 36px 60px auto;
+}
+
+.u-section-5 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 3rem;
+  padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 424px;
+  }
+
+  .u-section-5 .u-text-1 {
+    width: auto;
+    margin-top: 44px;
+    margin-right: 124px;
+  }
+
+  .u-section-5 .u-text-2 {
+    width: auto;
+    margin-top: -407px;
+    margin-right: 8px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 511px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 55px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: -488px;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-5 {
+    background-position: 62.27% 50%;
+  }
+
+  .u-section-5 .u-sheet-1 {
+    min-height: 647px;
+  }
+
+  .u-section-5 .u-text-1 {
+    margin-top: 1px;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: -620px;
+    margin-bottom: 567px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-5 .u-sheet-1 {
+    min-height: 624px;
+  }
+
+  .u-section-5 .u-text-1 {
+    font-size: 1.25rem;
+    margin-top: 80px;
+    margin-right: 0;
+  }
+
+  .u-section-5 .u-text-2 {
+    margin-top: -600px;
+    margin-bottom: 60px;
+  }
+
+  .u-section-5 .u-btn-1 {
+    font-size: 2.25rem;
+  }
+} .u-section-6 {
+  background-image: url("images/91fc81723866ac68b9fb603b8e7c977b8e6015988bae658feba2041d0c1d5fa7f2772445772b4ef7a87eed1ce51b267efbb937dffa608836da4cf9_1280.jpg");
+  background-position: 50% 50%;
+}
+
+.u-section-6 .u-sheet-1 {
+  min-height: 349px;
+}
+
+@media (max-width: 1199px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 288px;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 221px;
+  }
+}
+
+@media (max-width: 767px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 166px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-6 .u-sheet-1 {
+    min-height: 221px;
+  }
+} .u-section-7 {
+  background-image: url("images/layered-waves-haikei.4-24.png");
+  background-position: 50% 50%;
+}
+
+.u-section-7 .u-sheet-1 {
+  min-height: 779px;
+}
+
+.u-section-7 .u-text-1 {
+  font-size: 3rem;
+  margin: 50px auto 0 452px;
+}
+
+.u-section-7 .u-text-2 {
+  font-size: 1.5rem;
+  font-weight: normal;
+  margin: 32px 1px 0;
+}
+
+.u-section-7 .u-image-1 {
+  width: 430px;
+  height: 211px;
+  margin: 17px 0 0 auto;
+}
+
+.u-section-7 .u-image-2 {
+  width: 140px;
+  height: 215px;
+  margin: -215px auto 0 11px;
+}
+
+.u-section-7 .u-image-3 {
+  width: 520px;
+  height: 177px;
+  object-position: 88.48% 100%;
+  margin: 11px 0 0 auto;
+}
+
+.u-section-7 .u-image-4 {
+  width: 352px;
+  height: 186px;
+  margin: -187px auto 2px 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 642px;
+  }
+
+  .u-section-7 .u-text-1 {
+    margin-left: 373px;
+  }
+
+  .u-section-7 .u-text-2 {
+    margin-left: 0;
+    margin-right: 0;
+  }
+}
+
+@media (max-width: 991px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 800px;
+  }
+
+  .u-section-7 .u-text-1 {
+    width: auto;
+    margin-top: 28px;
+    margin-left: auto;
+  }
+
+  .u-section-7 .u-text-2 {
+    width: auto;
+    margin-top: 26px;
+  }
+
+  .u-section-7 .u-image-1 {
+    width: 360px;
+    height: 177px;
+    margin-top: 45px;
+  }
+
+  .u-section-7 .u-image-2 {
+    margin-top: -183px;
+    margin-left: 45px;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 360px;
+    height: 123px;
+    margin-top: 13px;
+  }
+
+  .u-section-7 .u-image-4 {
+    width: 257px;
+    height: 136px;
+    margin-top: -136px;
+    margin-bottom: 0;
+  }
+}
+
+@media (max-width: 767px) {
+   .u-section-7 {
+    background-position: 36.33% 50%;
+  }
+
+  .u-section-7 .u-sheet-1 {
+    min-height: 891px;
+  }
+
+  .u-section-7 .u-image-1 {
+    width: 270px;
+    height: 132px;
+  }
+
+  .u-section-7 .u-image-2 {
+    margin-top: -160px;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 270px;
+    height: 92px;
+    margin-top: 43px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-7 .u-sheet-1 {
+    min-height: 740px;
+  }
+
+  .u-section-7 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-7 .u-text-2 {
+    font-size: 1.25rem;
+  }
+
+  .u-section-7 .u-image-1 {
+    width: 190px;
+    height: 93px;
+  }
+
+  .u-section-7 .u-image-2 {
+    width: 99px;
+    height: 151px;
+    margin-top: -107px;
+    margin-left: 26px;
+  }
+
+  .u-section-7 .u-image-3 {
+    width: 190px;
+    height: 65px;
+    margin-top: 15px;
+  }
+
+  .u-section-7 .u-image-4 {
+    width: 150px;
+    height: 80px;
+    margin-top: -80px;
+  }
+}.u-section-8 .u-sheet-1 {
+  min-height: 78px;
+}
+
+.u-section-8 .u-btn-1 {
+  border-style: none none solid;
+  font-size: 1.5rem;
+  margin: 19px 0 19px auto;
+  padding: 0;
+}
